@@ -15,7 +15,7 @@ useEffect(()=>{
    fetchTrailer();
 },[]);
 
-  return (
+  return ( 
     <div className='w-full p-4 m-6 text-center justify-center'>
         <h1 className='pb-2 font-bold'>Customer details Here</h1>
         <p className='w-2/3 ml-64'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
